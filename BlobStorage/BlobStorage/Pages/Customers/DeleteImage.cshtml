@@ -1,0 +1,15 @@
+﻿@page "{customerImageID}"
+@model BlobStorage.Pages.Customers.DeleteImageModel
+@{
+
+}
+
+<h1>Delete</h1>
+
+<div class="alert alert-danger">
+    Are you sure you want to delete @Model.CustomerImages.FileName?
+</div>
+<form method="post">
+    <button type="submit" class="btn btn-danger">YES!</button>
+    <a asp-page="List" class="btn btn-default">Cancel</a>
+</form>
