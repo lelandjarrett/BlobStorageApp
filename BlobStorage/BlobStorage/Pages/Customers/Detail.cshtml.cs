@@ -2,6 +2,7 @@ using BlobStorage.Core;
 using BlobStorage.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.Extensions.Options;
 
 namespace BlobStorage.Pages.Customers
 {
@@ -10,6 +11,7 @@ namespace BlobStorage.Pages.Customers
         public IConfiguration Config;
         private readonly ICustomerData customerData;
         private readonly ICustomerImage customerImage;
+        private readonly AzureStorageConfig storageConfig;
 
 
 
@@ -19,7 +21,8 @@ namespace BlobStorage.Pages.Customers
 
 
         public DetailModel(ICustomerData customerData,
-                            ICustomerImage customerImage)
+                            ICustomerImage customerImage,
+                            IOptions<AzureStorageConfig> storageConfig)
         {
             this.customerData = customerData;
             this.customerImage = customerImage;
@@ -30,7 +33,6 @@ namespace BlobStorage.Pages.Customers
             Image = (IEnumerable<CustomerImages>)customerImage.GetImagesById(customerId);
             Customer = customerData.GetById(customerId);
         }
-
 
     }
 

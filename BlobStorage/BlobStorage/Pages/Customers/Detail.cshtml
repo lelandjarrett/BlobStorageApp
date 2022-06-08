@@ -52,7 +52,9 @@
 <div>
     BussineType: @Model.Customer.BussineType
 </div>
-  
+
+
+ <main>
     <div class="box header">
     </div>
     
@@ -72,9 +74,14 @@
                 </div>
             </form>
         </div>
+        <h2>Uploaded files</h2>
         <ul id="fileList"></ul>
-</div>
-       
+    </div>
+</main>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.1.1/min/dropzone.min.js"></script>
+
 <script>
 
     // Grab links for files from backend api
@@ -120,6 +127,7 @@
 
 
 
+
 <table class="table">
     @foreach(var Image in Model.Image)
     {
@@ -149,4 +157,7 @@
 </table>
 
 
+
 <a asp-page="./EditImage" asp-route-customerId=@Model.Customer.ID class="btn btn-primary"> Add New</a>
+
+

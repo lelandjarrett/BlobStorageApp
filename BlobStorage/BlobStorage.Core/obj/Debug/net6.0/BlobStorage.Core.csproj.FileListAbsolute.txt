@@ -22,3 +22,15 @@ C:\Git\PowerBiEmbedded\POC\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobSto
 C:\Git\PowerBiEmbedded\POC\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\refint\BlobStorage.Core.dll
 C:\Git\PowerBiEmbedded\POC\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobStorage.Core.pdb
 C:\Git\PowerBiEmbedded\POC\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\ref\BlobStorage.Core.dll
+C:\Git\BlobStorageApp\BlobStorage\BlobStorage.Core\bin\Debug\net6.0\BlobStorage.Core.deps.json
+C:\Git\BlobStorageApp\BlobStorage\BlobStorage.Core\bin\Debug\net6.0\BlobStorage.Core.dll
+C:\Git\BlobStorageApp\BlobStorage\BlobStorage.Core\bin\Debug\net6.0\BlobStorage.Core.pdb
+C:\Git\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobStorage.Core.csproj.AssemblyReference.cache
+C:\Git\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobStorage.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobStorage.Core.AssemblyInfoInputs.cache
+C:\Git\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobStorage.Core.AssemblyInfo.cs
+C:\Git\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobStorage.Core.csproj.CoreCompileInputs.cache
+C:\Git\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobStorage.Core.dll
+C:\Git\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\refint\BlobStorage.Core.dll
+C:\Git\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobStorage.Core.pdb
+C:\Git\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\ref\BlobStorage.Core.dll
