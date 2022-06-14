@@ -2,8 +2,97 @@
 
 @model BlobStorage.Pages.Customers.DetailModel
 @{
+    @functions
+    {
+        public string containerName { get; set; }
+        public void OnPost()
+        {
+            containerName = "images";
+        }
+    }
     ViewData["Title"] = "Detail";
 }
+
+
+<a asp-page="./List" class="btn btn-default"><i class="fa-solid fa-circle-arrow-left"></i></a>
+
+<h2>@Model.Customer.Name</h2>
+<div>
+    ID: @Model.Customer.ID
+</div>
+<div>
+    Location: @Model.Customer.Location
+</div>
+<div>
+    BussineType: @Model.Customer.BussineType
+</div>
+<h1>BlobStorage</h1>
+
+@*<div class="row">
+    <div class="col-md-12">
+        <a asp-action="AddFile" asp-controller="BlobFiles" class="btn btn-success">Add Blob</a>
+    </div>
+    <div class="col-md-12">
+        <ul>
+            @foreach (var item in Model.BlobImage)
+            {
+                <li>
+                    <a asp-action="ViewFile" asp-controller="BlobFiles" target="_blank" asp-route-name="@item">
+                        @item
+                    </a>
+
+                    <a asp-action="DeleteFile" asp-controller="BlobFiles" asp-route-name="@item" class="btn btn-danger">
+                        Delete
+                    </a>
+                </li>
+            }
+        </ul>
+    </div>
+</div>
+*@
+
+<h1>DataBase</h1>
+<table class="table">
+    @foreach(var Image in Model.Image)
+    {
+        <tr>
+            <td>@Image.ID</td>
+            <td>@Image.FileName</td>
+            <td>@Image.CustomerID</td>
+            <td>
+                <a class="btn btn-lg">
+                    <i class="fa-solid fa-eye"></i>
+                </a>
+            </td>
+             <td>
+                <a class="btn btn-lg"
+                    asp-page="./EditImage" 
+                    asp-route-customerImageId="@Image.ID">
+                    <i class="fa-solid fa-pen-to-square"></i>
+                </a>
+                <a class="btn btn-lg"
+                    asp-page="./DeleteImage" 
+                    asp-route-customerImageID="@Image.ID">
+                    <i class="fa-solid fa-trash-can"></i>
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+
+
+
+<a asp-page="./EditImage" asp-route-customerId=@Model.Customer.ID class="btn btn-primary"> Add New</a>
+
+
+
+
+
+
+
+
+@* 
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.1.1/min/dropzone.min.css" crossorigin="anonymous">
 
 <style>
@@ -40,21 +129,10 @@
     }
 </style>
 
-<a asp-page="./List" class="btn btn-default"><i class="fa-solid fa-circle-arrow-left"></i></a>
 
-<h2>@Model.Customer.Name</h2>
-<div>
-    ID: @Model.Customer.ID
-</div>
-<div>
-    Location: @Model.Customer.Location
-</div>
-<div>
-    BussineType: @Model.Customer.BussineType
-</div>
+    
 
-
- <main>
+<main>
     <div class="box header">
     </div>
     
@@ -124,40 +202,4 @@
         }
     };
 </script>
-
-
-
-
-<table class="table">
-    @foreach(var Image in Model.Image)
-    {
-        <tr>
-            <td>@Image.ID</td>
-            <td>@Image.FileName</td>
-            <td>@Image.CustomerID</td>
-            <td>
-                <a class="btn btn-lg">
-                    <i class="fa-solid fa-eye"></i>
-                </a>
-            </td>
-             <td>
-                <a class="btn btn-lg"
-                    asp-page="./EditImage" 
-                    asp-route-customerImageId="@Image.ID">
-                    <i class="fa-solid fa-pen-to-square"></i>
-                </a>
-                <a class="btn btn-lg"
-                    asp-page="./DeleteImage" 
-                    asp-route-customerImageID="@Image.ID">
-                    <i class="fa-solid fa-trash-can"></i>
-                </a>
-            </td>
-        </tr>
-    }
-</table>
-
-
-
-<a asp-page="./EditImage" asp-route-customerId=@Model.Customer.ID class="btn btn-primary"> Add New</a>
-
-
+*@

@@ -5,6 +5,7 @@ using Microsoft.Extensions.Configuration;
 using System.IO;
 using Azure.Storage.Blobs;
 using Microsoft.Extensions.Azure;
+using BlobStorage.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,12 +16,16 @@ var builder = WebApplication.CreateBuilder(args);
         .AddJsonFile("appsettings.json");
 
     var configuration = builders.Build();
+    var blobconnection = configuration.GetConnectionString("StorageAccount");
+
+
+/*
 
     // Get a connection string to our Azure Storage account.
     var connectionString = configuration.GetConnectionString("StorageAccount");
 
     // Get a reference to the container client object so you can create the "photos" container
-    string containerName = "customerimage";
+    string containerName = configuration.GetConnectionString("BlobContainer");
     BlobContainerClient container = new BlobContainerClient(connectionString, containerName);
     container.CreateIfNotExists();
 
@@ -30,6 +35,15 @@ var builder = WebApplication.CreateBuilder(args);
     {
         Console.WriteLine($"{blob.Name} --> Created On: {blob.Properties.CreatedOn:yyyy-MM-dd HH:mm:ss}  Size: {blob.Properties.ContentLength}");
     }
+
+    builder.Services.AddSingleton<IBlobService, BlobService>();
+
+*/
+
+
+    builder.Services.AddSingleton(x => new BlobServiceClient(blobconnection));
+    builder.Services.AddSingleton<IBlobService, BlobService>();
+    //builder.Services.AddControllersWithViews();
 
 // Add services to the container.
 

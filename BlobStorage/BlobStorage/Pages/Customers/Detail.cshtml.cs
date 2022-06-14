@@ -12,28 +12,36 @@ namespace BlobStorage.Pages.Customers
         private readonly ICustomerData customerData;
         private readonly ICustomerImage customerImage;
         private readonly AzureStorageConfig storageConfig;
+        private readonly IBlobService blobImage;
 
 
-
+        //Model! an object in my contorller and in my view
         public Customer Customer { get; set; }
         public IEnumerable<CustomerImages> Image { get; set; }
+        public IEnumerable<BlobImages> BlobImage { get; set; }
 
 
 
+
+        //Controller
+        //Constructor (dep injection)
         public DetailModel(ICustomerData customerData,
                             ICustomerImage customerImage,
-                            IOptions<AzureStorageConfig> storageConfig)
+                            IOptions<AzureStorageConfig> storageConfig,
+                            IBlobService blobImage)
         {
             this.customerData = customerData;
             this.customerImage = customerImage;
+            this.blobImage = blobImage;
         }
 
-        public void OnGet(int customerId)
+        //Some changes
+        public void OnGet(int customerId, string containerName, string name)
         {
             Image = (IEnumerable<CustomerImages>)customerImage.GetImagesById(customerId);
+            //BlobImage = (IEnumerable<IBlobService>)blobImage.GetBlob(name,containerName);
+            //BlobImage = blobImage.GetBlob(name, containerName).ToList;
             Customer = customerData.GetById(customerId);
         }
-
     }
-
 }

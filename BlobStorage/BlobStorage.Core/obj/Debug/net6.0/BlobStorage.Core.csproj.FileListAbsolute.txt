@@ -34,3 +34,15 @@ C:\Git\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobStorage.
 C:\Git\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\refint\BlobStorage.Core.dll
 C:\Git\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobStorage.Core.pdb
 C:\Git\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\ref\BlobStorage.Core.dll
+A:\GIT\BlobStorageApp\BlobStorage\BlobStorage.Core\bin\Debug\net6.0\BlobStorage.Core.deps.json
+A:\GIT\BlobStorageApp\BlobStorage\BlobStorage.Core\bin\Debug\net6.0\BlobStorage.Core.dll
+A:\GIT\BlobStorageApp\BlobStorage\BlobStorage.Core\bin\Debug\net6.0\BlobStorage.Core.pdb
+A:\GIT\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobStorage.Core.csproj.AssemblyReference.cache
+A:\GIT\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobStorage.Core.GeneratedMSBuildEditorConfig.editorconfig
+A:\GIT\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobStorage.Core.AssemblyInfoInputs.cache
+A:\GIT\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobStorage.Core.AssemblyInfo.cs
+A:\GIT\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobStorage.Core.csproj.CoreCompileInputs.cache
+A:\GIT\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobStorage.Core.dll
+A:\GIT\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\refint\BlobStorage.Core.dll
+A:\GIT\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\BlobStorage.Core.pdb
+A:\GIT\BlobStorageApp\BlobStorage\BlobStorage.Core\obj\Debug\net6.0\ref\BlobStorage.Core.dll
