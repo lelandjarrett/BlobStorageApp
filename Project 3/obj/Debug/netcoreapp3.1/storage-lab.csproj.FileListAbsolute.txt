@@ -1,0 +1,44 @@
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\bin\Debug\netcoreapp3.1\storage-lab.exe
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\bin\Debug\netcoreapp3.1\storage-lab.deps.json
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\bin\Debug\netcoreapp3.1\storage-lab.runtimeconfig.json
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\bin\Debug\netcoreapp3.1\storage-lab.runtimeconfig.dev.json
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\bin\Debug\netcoreapp3.1\storage-lab.dll
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\bin\Debug\netcoreapp3.1\storage-lab.pdb
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\obj\Debug\netcoreapp3.1\storage-lab.csproj.AssemblyReference.cache
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\obj\Debug\netcoreapp3.1\storage-lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\obj\Debug\netcoreapp3.1\storage-lab.AssemblyInfoInputs.cache
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\obj\Debug\netcoreapp3.1\storage-lab.AssemblyInfo.cs
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\obj\Debug\netcoreapp3.1\storage-lab.csproj.CoreCompileInputs.cache
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\obj\Debug\netcoreapp3.1\storage-lab.csproj.CopyComplete
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\obj\Debug\netcoreapp3.1\storage-lab.dll
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\obj\Debug\netcoreapp3.1\storage-lab.pdb
+C:\Git\lab_azure_set-retrieve-properties-metadata-azure-blob-storage\code-challenge-5\obj\Debug\netcoreapp3.1\storage-lab.genruntimeconfig.cache
+C:\Git\azure-blob-storage-poc\Project 3\bin\Debug\netcoreapp3.1\storage-lab.exe
+C:\Git\azure-blob-storage-poc\Project 3\bin\Debug\netcoreapp3.1\storage-lab.deps.json
+C:\Git\azure-blob-storage-poc\Project 3\bin\Debug\netcoreapp3.1\storage-lab.runtimeconfig.json
+C:\Git\azure-blob-storage-poc\Project 3\bin\Debug\netcoreapp3.1\storage-lab.runtimeconfig.dev.json
+C:\Git\azure-blob-storage-poc\Project 3\bin\Debug\netcoreapp3.1\storage-lab.dll
+C:\Git\azure-blob-storage-poc\Project 3\bin\Debug\netcoreapp3.1\storage-lab.pdb
+C:\Git\azure-blob-storage-poc\Project 3\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Git\azure-blob-storage-poc\Project 3\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Git\azure-blob-storage-poc\Project 3\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Git\azure-blob-storage-poc\Project 3\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+C:\Git\azure-blob-storage-poc\Project 3\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+C:\Git\azure-blob-storage-poc\Project 3\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git\azure-blob-storage-poc\Project 3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Git\azure-blob-storage-poc\Project 3\obj\Debug\netcoreapp3.1\storage-lab.csproj.AssemblyReference.cache
+C:\Git\azure-blob-storage-poc\Project 3\obj\Debug\netcoreapp3.1\storage-lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\azure-blob-storage-poc\Project 3\obj\Debug\netcoreapp3.1\storage-lab.AssemblyInfoInputs.cache
+C:\Git\azure-blob-storage-poc\Project 3\obj\Debug\netcoreapp3.1\storage-lab.AssemblyInfo.cs
+C:\Git\azure-blob-storage-poc\Project 3\obj\Debug\netcoreapp3.1\storage-lab.csproj.CoreCompileInputs.cache
+C:\Git\azure-blob-storage-poc\Project 3\obj\Debug\netcoreapp3.1\storage-lab.csproj.CopyComplete
+C:\Git\azure-blob-storage-poc\Project 3\obj\Debug\netcoreapp3.1\storage-lab.dll
+C:\Git\azure-blob-storage-poc\Project 3\obj\Debug\netcoreapp3.1\storage-lab.pdb
+C:\Git\azure-blob-storage-poc\Project 3\obj\Debug\netcoreapp3.1\storage-lab.genruntimeconfig.cache

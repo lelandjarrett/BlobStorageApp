@@ -1,0 +1,80 @@
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\bin\Debug\netcoreapp3.1\FileUploader.exe
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\bin\Debug\netcoreapp3.1\FileUploader.deps.json
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\bin\Debug\netcoreapp3.1\FileUploader.runtimeconfig.json
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\bin\Debug\netcoreapp3.1\FileUploader.runtimeconfig.dev.json
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\bin\Debug\netcoreapp3.1\FileUploader.dll
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\bin\Debug\netcoreapp3.1\FileUploader.pdb
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\bin\Debug\netcoreapp3.1\FileUploader.Views.dll
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\bin\Debug\netcoreapp3.1\FileUploader.Views.pdb
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.csproj.AssemblyReference.cache
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.AssemblyInfoInputs.cache
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.AssemblyInfo.cs
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.csproj.CoreCompileInputs.cache
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.RazorAssemblyInfo.cache
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.RazorAssemblyInfo.cs
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\staticwebassets\FileUploader.StaticWebAssets.Manifest.cache
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.TagHelpers.input.cache
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.TagHelpers.output.cache
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.RazorCoreGenerate.cache
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.RazorTargetAssemblyInfo.cache
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.RazorTargetAssemblyInfo.cs
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.Views.pdb
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.csproj.CopyComplete
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.dll
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.pdb
+C:\Git\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\final\obj\Debug\netcoreapp3.1\FileUploader.genruntimeconfig.cache
+C:\Git\azure-blob-storage-poc\Project 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Git\azure-blob-storage-poc\Project 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Git\azure-blob-storage-poc\Project 1\bin\Debug\netcoreapp3.1\FileUploader.exe
+C:\Git\azure-blob-storage-poc\Project 1\bin\Debug\netcoreapp3.1\FileUploader.deps.json
+C:\Git\azure-blob-storage-poc\Project 1\bin\Debug\netcoreapp3.1\FileUploader.runtimeconfig.json
+C:\Git\azure-blob-storage-poc\Project 1\bin\Debug\netcoreapp3.1\FileUploader.runtimeconfig.dev.json
+C:\Git\azure-blob-storage-poc\Project 1\bin\Debug\netcoreapp3.1\FileUploader.dll
+C:\Git\azure-blob-storage-poc\Project 1\bin\Debug\netcoreapp3.1\FileUploader.pdb
+C:\Git\azure-blob-storage-poc\Project 1\bin\Debug\netcoreapp3.1\FileUploader.Views.dll
+C:\Git\azure-blob-storage-poc\Project 1\bin\Debug\netcoreapp3.1\FileUploader.Views.pdb
+C:\Git\azure-blob-storage-poc\Project 1\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Git\azure-blob-storage-poc\Project 1\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Git\azure-blob-storage-poc\Project 1\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Git\azure-blob-storage-poc\Project 1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git\azure-blob-storage-poc\Project 1\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Git\azure-blob-storage-poc\Project 1\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.csproj.AssemblyReference.cache
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.AssemblyInfoInputs.cache
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.AssemblyInfo.cs
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.csproj.CoreCompileInputs.cache
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.RazorAssemblyInfo.cache
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.RazorAssemblyInfo.cs
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\staticwebassets\FileUploader.StaticWebAssets.Manifest.cache
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.TagHelpers.input.cache
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.TagHelpers.output.cache
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.RazorCoreGenerate.cache
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.RazorTargetAssemblyInfo.cache
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.RazorTargetAssemblyInfo.cs
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.Views.pdb
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.csproj.CopyComplete
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.dll
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.pdb
+C:\Git\azure-blob-storage-poc\Project 1\obj\Debug\netcoreapp3.1\FileUploader.genruntimeconfig.cache

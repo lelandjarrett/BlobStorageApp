@@ -1,0 +1,241 @@
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\appsettings.json
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\BlobSampleApp.exe
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\BlobSampleApp.deps.json
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\BlobSampleApp.runtimeconfig.json
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\BlobSampleApp.runtimeconfig.dev.json
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\BlobSampleApp.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\BlobSampleApp.pdb
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\BlobSampleApp.Views.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\BlobSampleApp.Views.pdb
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Azure.Core.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Azure.Storage.Common.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.csproj.AssemblyReference.cache
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.AssemblyInfoInputs.cache
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.AssemblyInfo.cs
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.csproj.CoreCompileInputs.cache
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.RazorAssemblyInfo.cache
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.RazorAssemblyInfo.cs
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\scopedcss\bundle\BlobSampleApp.styles.css
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\staticwebassets\BlobSampleApp.StaticWebAssets.Manifest.cache
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.TagHelpers.input.cache
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.TagHelpers.output.cache
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.RazorCoreGenerate.cache
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\Razor\Views\BlobFiles\AddFile.cshtml.g.cs
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\Razor\Views\BlobFiles\Index.cshtml.g.cs
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.RazorTargetAssemblyInfo.cache
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.RazorTargetAssemblyInfo.cs
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.Views.pdb
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.csproj.CopyComplete
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\refint\BlobSampleApp.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.pdb
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.genruntimeconfig.cache
+C:\Git\v15-AzureStorage\BlobSampleApp\obj\Debug\net5.0\ref\BlobSampleApp.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Humanizer.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Git\v15-AzureStorage\BlobSampleApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\appsettings.Development.json
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\appsettings.json
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\BlobSampleApp.exe
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\BlobSampleApp.deps.json
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\BlobSampleApp.runtimeconfig.json
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\BlobSampleApp.runtimeconfig.dev.json
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\BlobSampleApp.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\ref\BlobSampleApp.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\BlobSampleApp.pdb
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\BlobSampleApp.Views.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\BlobSampleApp.Views.pdb
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Azure.Core.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Azure.Storage.Common.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Humanizer.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Git\azure-blob-storage-poc\Project 2\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.csproj.AssemblyReference.cache
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.AssemblyInfoInputs.cache
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.AssemblyInfo.cs
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.csproj.CoreCompileInputs.cache
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.RazorAssemblyInfo.cache
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.RazorAssemblyInfo.cs
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\staticwebassets\BlobSampleApp.StaticWebAssets.Manifest.cache
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\staticwebassets\BlobSampleApp.StaticWebAssets.xml
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\scopedcss\bundle\BlobSampleApp.styles.css
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.TagHelpers.input.cache
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.TagHelpers.output.cache
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.RazorCoreGenerate.cache
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\Razor\Views\BlobFiles\AddFile.cshtml.g.cs
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\Razor\Views\BlobFiles\Index.cshtml.g.cs
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.RazorTargetAssemblyInfo.cache
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.RazorTargetAssemblyInfo.cs
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.Views.pdb
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.csproj.CopyComplete
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.dll
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\ref\BlobSampleApp.dll
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.pdb
+C:\Git\azure-blob-storage-poc\Project 2\obj\Debug\net5.0\BlobSampleApp.genruntimeconfig.cache
